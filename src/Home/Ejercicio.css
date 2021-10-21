@@ -1,0 +1,17 @@
+.Rojo{
+    width: 200px;
+    height: 200px;
+    background-color:  red;
+}
+
+.Azul{
+    width: 200px;
+    height: 200px;
+    background-color:  blue;
+}
+
+.Amarillo{
+    width: 200px;
+    height: 200px;
+    background-color:  yellow;
+}
